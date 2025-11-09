@@ -42,10 +42,10 @@ function sortear() {
         return showMessage(`Quantidade de números maior do que o intervalo disponível! Máximo permitido: ${totalNumerosPossiveis}`);
     }
 
-    // Inicializa o array de números disponíveis uma única vez
+   
     if (numerosDisponiveis.length === 0) {
         initializeNumerosDisponiveis(de, ate);
-        // Bloqueia as configurações durante a série de sorteios
+    
         document.getElementById('de').disabled = true;
         document.getElementById('ate').disabled = true;
     }
