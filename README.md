@@ -4,7 +4,7 @@ Repositório centralizado para organizar todos meus materiais de estudo.
 
 ## 📂 Estrutura
 
-- **Linguagens**: Estudos de Python, JavaScript, Java, etc.
+- **Linguagens**: Estudos de Python, JavaScript, C++, etc.
 - **Projetos**: Mini-projetos e exercícios práticos
 - **Anotações**: Notas gerais e resumos
 
