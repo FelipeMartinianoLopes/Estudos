@@ -30,9 +30,9 @@ numero_saques: Contador de saques realizados no dia
 
 LIMITE_SAQUES: Constante com o número máximo de saques (3)
 
-Sistema Bancário Orientado a Objetos
+# Sistema Bancário Orientado a Objetos
 
-🚀 Principais Melhorias em Relação à Versão Anterior
+## 🚀 Principais Melhorias em Relação à Versão Anterior
 
 1. Arquitetura Orientada a Objetos
 
@@ -54,14 +54,15 @@ Gestão de usuários e contas
 
 Listagem de contas cadastradas
 
-Gestão de Clientes
+## Gestão de Clientes
+
 Cadastro de novos clientes com CPF único
 
 Validação de duplicidade de CPF
 
 Dados completos: nome, data de nascimento, endereço
 
-Gestão de Contas
+## Gestão de Contas
 
 Criação de múltiplas contas por cliente
 
@@ -69,7 +70,7 @@ Numeração automática de contas
 
 Vinculação automática ao cliente
 
-Operações Bancárias
+## Operações Bancárias
 
 Depósito: Valores positivos, registrado no histórico
 
