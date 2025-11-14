@@ -1,15 +1,34 @@
 ﻿# Sistema-bancario-python
 
-Sistema bancário modularizado desenvolvido em Python como parte de um desafio de programação.
+Um sistema bancário básico em Python que permite realizar operações de depósito, saque e consulta de extrato.
 
 ## 🚀 Funcionalidades
 
-- ✅ Depósito - Função com parâmetros position-only
-- ✅ Saque - Função com parâmetros keyword-only  
-- ✅ Extrato - Função com parâmetros mistos
-- ✅ Criar Usuário - Cadastro de clientes com CPF único
-- ✅ Criar Conta Corrente - Vinculação de contas a usuários
-- ✅ Listar Contas - Visualização de todas as contas
+Depósito: Adicionar valores à conta (apenas valores positivos)
+
+Saque: Realizar retiradas respeitando:
+
+Limite de R$ 500,00 por saque
+
+Máximo de 3 saques diários
+
+Saldo suficiente na conta
+
+Extrato: Visualizar histórico de transações e saldo atual
+
+Sair: Encerrar o sistema
+
+## 🔧 Estrutura do código
+
+saldo: Armazena o saldo atual da conta
+
+limite: Define o valor máximo por saque (R$ 500)
+
+extrato: Registro das transações realizadas
+
+numero_saques: Contador de saques realizados no dia
+
+LIMITE_SAQUES: Constante com o número máximo de saques (3)
 
 ##
 
