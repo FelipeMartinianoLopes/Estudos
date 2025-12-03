@@ -1,6 +1,6 @@
 # Resumo: Tipos, Variáveis e Exercícios
 
-** Escopo
+**Escopo**
 - **Descrição**: Demonstra conceitos de escopo em JavaScript (global, de função e de bloco) e como `var`, `let` e `const` se comportam em cada contexto.
 - **Pontos-chave**:
 - **Global:** variáveis declaradas fora de funções/blocks são acessíveis em todo o código.
@@ -33,6 +33,7 @@
 - Cada execução de `exercicio6.js` gera um resultado aleatório para "está chovendo" (50% de chance cada).
 - Use `console.log` para inspecionar valores durante aprendizado.
 - Prefira `let` e `const` em código moderno; reserve `var` para compatibilidade legada apenas.
+
 
 
 
